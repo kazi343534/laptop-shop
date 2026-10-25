@@ -1,0 +1,9 @@
+{
+  "name": "laptop-shop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple one-laptop sale website",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
